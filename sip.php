@@ -1,9 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Dial>
-<Sip>
-<Uri username="twilio1" password="drawtheowl">1337@67.83.28.43</Uri>
-<Uri username="twilio2" password="drawtheowl">1337@67.83.28.43</Uri>
-<Uri username="twilio3" password="drawtheowl">1337@67.83.28.43</Uri>
-</Sip>
-</Dial>
+  <Say voice="alice">Thanks for the call. Configure your number's voice U R L to change this message.
+  </Say>
+  <Pause length="1"/>
+  <Say voice="alice">Let us know if we can help you in any way during your development.
+  </Say>
 </Response>
